@@ -38,7 +38,7 @@ body {
 
 
 .botao {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: "Silkscreen", sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
